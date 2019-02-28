@@ -7,7 +7,7 @@
 title: Anchoret
 subtitle: Choose You Own Path
 description: 逢君一笑，人间无此欢喜
-author: 诗翔
+author: 汤昱焜
 # Support language: de, en, fr-FR, id, ja, ko, pt-BR, pt, ru, zh-Hans, zh-hk, zh-tw
 language: zh-Hans
 date_format: '%Y-%m-%d'
@@ -121,7 +121,6 @@ menu:
   archives: /archives/
   tags: /tags/
   sitemap: /sitemap.xml
-  commonweal: /404.html
 
 
 # Enable/Disable menu icons.
@@ -214,8 +213,7 @@ font:
 #social:
   #LinkLabel: Link
 social:
-    GitHub: https://github.com/ShixiangWang
-    简书: http://www.jianshu.com/u/b6608e27dc74
+    GitHub: https://github.com/crystal98tang
 # Social Links Icons
 # Icon Mapping:
 #   Map a menu item to a specific FontAwesome icon name.
@@ -226,9 +224,8 @@ social_icons:
   # Icon Mappings.
   # KeyMapsToSocialItemKey: NameOfTheIconFromFontAwesome
   GitHub: github
-  Twitter: twitter
   Weibo: weibo
-  简书: etsy
+
 
   
 # reward
