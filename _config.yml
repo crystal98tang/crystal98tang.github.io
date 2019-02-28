@@ -85,8 +85,8 @@ keywords: "Jekyll, NexT"
 rss:
 
 # Specify the date when the site was setup
-#since: 2015
-since: 2019
+#since: 2018
+since: 2018
 # icon between year and author @Footer
 authoricon: heart
 
@@ -214,6 +214,8 @@ font:
   #LinkLabel: Link
 social:
     GitHub: https://github.com/crystal98tang
+    Weibo: https://weibo.com/u/5947755795
+    QQ: 502709661
 # Social Links Icons
 # Icon Mapping:
 #   Map a menu item to a specific FontAwesome icon name.
@@ -225,6 +227,7 @@ social_icons:
   # KeyMapsToSocialItemKey: NameOfTheIconFromFontAwesome
   GitHub: github
   Weibo: weibo
+  QQ: qq
 
 
   
@@ -286,14 +289,14 @@ sidebar:
 #links_layout: inline
 #links:
   #Title: http://example.com/
-links_title: 推荐阅读
-links:
-  阮一峰的网络日志: http://www.ruanyifeng.com/blog/archives.html
-  R的极客理想系列: http://blog.fens.me/series-r/
-  谢益辉: https://yihui.name/
-  解螺旋的矿工: http://www.huangshujia.me/
-  GuangchuangYu: https://github.com/GuangchuangYu
-  生信技能树: https://vip.biotrainee.com/
+# links_title: 推荐阅读
+# links:
+#   阮一峰的网络日志: http://www.ruanyifeng.com/blog/archives.html
+#   R的极客理想系列: http://blog.fens.me/series-r/
+#   谢益辉: https://yihui.name/
+#   解螺旋的矿工: http://www.huangshujia.me/
+#   GuangchuangYu: https://github.com/GuangchuangYu
+#   生信技能树: https://vip.biotrainee.com/
 
 # ---------------------------------------------------------------
 # Post Settings
@@ -380,7 +383,7 @@ han: false
 #swiftype_key:
 
 # Baidu Analytics ID
-baidu_analytics: 36443ede179652b0cf6a526f12b1976f
+# baidu_analytics: 36443ede179652b0cf6a526f12b1976f
 
 # Duoshuo ShortName
 #duoshuo_shortname:
