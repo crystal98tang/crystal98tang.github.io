@@ -6,7 +6,7 @@
 # Site
 title: Anchoret
 subtitle: Choose You Own Path
-description: 逢君一笑，人间无此欢喜自行车不准许
+description: 逢君一笑，人间无此欢喜
 author: 汤昱焜
 # Support language: de, en, fr-FR, id, ja, ko, pt-BR, pt, ru, zh-Hans, zh-hk, zh-tw
 language: zh-Hans
@@ -391,7 +391,7 @@ han: false
 # Disqus
 disqus:
   enable: true
-  shortname: anchoret
+  shortname: disqus_LoPinNOx3l
   count: true
 
 # Hypercomments

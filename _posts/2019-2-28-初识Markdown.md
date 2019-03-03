@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "初识Markdown"
-date: 2019-02-28
+date: 2019-02-27
 categories: 
 - Markdown
 tags:
@@ -9,6 +9,10 @@ tags:
 ---
 
 ==使用Yu Writer Pro完成Markdown==
+
+比较基础的语法，完善中 ^_^
+
+<!-- more -->
 
 # 1 基本格式
 ## 段落

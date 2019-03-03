@@ -18,5 +18,6 @@ group: navigation
 
 现在也没啥好说的，慢慢充实
 
-![avatar](images/avatar.jpg)
+![qq_pic_merged_1551616681094.jpg](https://i.loli.net/2019/03/03/5c7bcaba38e13.jpg)
+
 
