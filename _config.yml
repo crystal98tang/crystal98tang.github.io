@@ -391,7 +391,7 @@ han: false
 # Disqus
 disqus:
   enable: true
-  shortname: disqus_LoPinNOx3l
+  disqus_username: disqus_LoPinNOx3l
   count: true
 
 # Hypercomments
